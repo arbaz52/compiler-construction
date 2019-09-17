@@ -1,0 +1,7 @@
+C:\Users\comsats\Desktop\Lab2HomeActivityWithDataFrame\Lab2HomeActivityWithDataFrame\bin\Debug\Lab2HomeActivityWithDataFrame.exe
+C:\Users\comsats\Desktop\Lab2HomeActivityWithDataFrame\Lab2HomeActivityWithDataFrame\bin\Debug\Lab2HomeActivityWithDataFrame.pdb
+C:\Users\comsats\Desktop\Lab2HomeActivityWithDataFrame\Lab2HomeActivityWithDataFrame\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\comsats\Desktop\Lab2HomeActivityWithDataFrame\Lab2HomeActivityWithDataFrame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\comsats\Desktop\Lab2HomeActivityWithDataFrame\Lab2HomeActivityWithDataFrame\obj\x86\Debug\Lab2HomeActivityWithDataFrame.csproj.GenerateResource.Cache
+C:\Users\comsats\Desktop\Lab2HomeActivityWithDataFrame\Lab2HomeActivityWithDataFrame\obj\x86\Debug\Lab2HomeActivityWithDataFrame.exe
+C:\Users\comsats\Desktop\Lab2HomeActivityWithDataFrame\Lab2HomeActivityWithDataFrame\obj\x86\Debug\Lab2HomeActivityWithDataFrame.pdb

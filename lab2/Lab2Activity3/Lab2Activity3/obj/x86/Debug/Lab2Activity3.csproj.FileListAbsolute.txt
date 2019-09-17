@@ -1,0 +1,7 @@
+C:\Users\comsats\Desktop\Lab2Activity3\Lab2Activity3\bin\Debug\Lab2Activity3.exe
+C:\Users\comsats\Desktop\Lab2Activity3\Lab2Activity3\bin\Debug\Lab2Activity3.pdb
+C:\Users\comsats\Desktop\Lab2Activity3\Lab2Activity3\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\comsats\Desktop\Lab2Activity3\Lab2Activity3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\comsats\Desktop\Lab2Activity3\Lab2Activity3\obj\x86\Debug\Lab2Activity3.csproj.GenerateResource.Cache
+C:\Users\comsats\Desktop\Lab2Activity3\Lab2Activity3\obj\x86\Debug\Lab2Activity3.exe
+C:\Users\comsats\Desktop\Lab2Activity3\Lab2Activity3\obj\x86\Debug\Lab2Activity3.pdb

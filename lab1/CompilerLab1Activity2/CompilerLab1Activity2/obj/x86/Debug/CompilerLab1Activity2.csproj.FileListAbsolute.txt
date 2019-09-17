@@ -1,0 +1,7 @@
+C:\Users\comsats\Documents\Visual Studio 2010\Projects\CompilerLab1Activity2\CompilerLab1Activity2\bin\Debug\CompilerLab1Activity2.exe
+C:\Users\comsats\Documents\Visual Studio 2010\Projects\CompilerLab1Activity2\CompilerLab1Activity2\bin\Debug\CompilerLab1Activity2.pdb
+C:\Users\comsats\Documents\Visual Studio 2010\Projects\CompilerLab1Activity2\CompilerLab1Activity2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\comsats\Documents\Visual Studio 2010\Projects\CompilerLab1Activity2\CompilerLab1Activity2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\comsats\Documents\Visual Studio 2010\Projects\CompilerLab1Activity2\CompilerLab1Activity2\obj\x86\Debug\CompilerLab1Activity2.csproj.GenerateResource.Cache
+C:\Users\comsats\Documents\Visual Studio 2010\Projects\CompilerLab1Activity2\CompilerLab1Activity2\obj\x86\Debug\CompilerLab1Activity2.exe
+C:\Users\comsats\Documents\Visual Studio 2010\Projects\CompilerLab1Activity2\CompilerLab1Activity2\obj\x86\Debug\CompilerLab1Activity2.pdb
