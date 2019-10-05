@@ -41,7 +41,7 @@ namespace WindowsFormsApplication1
                     case '+': accumulator += currentValue; break;
                     case '-': accumulator -= currentValue; break;
                     case '×': accumulator *= currentValue; break;
-                    case '÷': accumulator /= currentValue; break;
+                    case '/': accumulator /= currentValue; break;
                     default: accumulator = currentValue; break;
                 }
             }

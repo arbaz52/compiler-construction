@@ -24,7 +24,7 @@ namespace Lab3
 
         private void find_constants(object sender, EventArgs e)
         {
-            Regex rgx = new Regex(@"^([0-9]+(.[0-9]*))$");
+            Regex rgx = new Regex(@"^([0-9]+(\.[0-9]+)?(e[+|-][0-9]+)?){0,60}$");
             //split
             string[] words = inputField.Text.Split(' ');
             for(int  i = 0; i < words.Length; i++)
@@ -62,6 +62,11 @@ namespace Lab3
                     richTextBox1.Text += words[i] + " ";
                 }
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

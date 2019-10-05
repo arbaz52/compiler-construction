@@ -41,19 +41,9 @@ namespace WindowsFormsApplication1
 
         }
 
-
-        public void displayx(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            string s = "";
-            foreach (DataGridViewRow row in dataGridView1.Rows)
-            {
-                foreach (DataGridViewCell cell in row.Cells)
-                {
-                    s += cell.Value;
 
-                }
-            }
-            label4.Text = s;
         }
     }
 }
