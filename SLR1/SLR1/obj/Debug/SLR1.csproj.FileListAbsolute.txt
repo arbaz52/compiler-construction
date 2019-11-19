@@ -1,0 +1,9 @@
+C:\Users\Shark\source\repos\SLR1\SLR1\bin\Debug\SLR1.exe.config
+C:\Users\Shark\source\repos\SLR1\SLR1\bin\Debug\SLR1.exe
+C:\Users\Shark\source\repos\SLR1\SLR1\bin\Debug\SLR1.pdb
+C:\Users\Shark\source\repos\SLR1\SLR1\obj\Debug\SLR1.csprojAssemblyReference.cache
+C:\Users\Shark\source\repos\SLR1\SLR1\obj\Debug\SLR1.Form1.resources
+C:\Users\Shark\source\repos\SLR1\SLR1\obj\Debug\SLR1.Properties.Resources.resources
+C:\Users\Shark\source\repos\SLR1\SLR1\obj\Debug\SLR1.csproj.GenerateResource.cache
+C:\Users\Shark\source\repos\SLR1\SLR1\obj\Debug\SLR1.exe
+C:\Users\Shark\source\repos\SLR1\SLR1\obj\Debug\SLR1.pdb

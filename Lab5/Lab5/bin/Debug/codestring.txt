@@ -1,0 +1,4 @@
+string x = ' hello ' ;
+if ( x > 1 ) {
+int z = 5 ;
+}
