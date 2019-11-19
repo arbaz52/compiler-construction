@@ -1,0 +1,7 @@
+C:\Users\Faizan\Desktop\VII\Compiler Construction\Lab\Lab 10\Activity1\bin\Debug\Activity1.exe.config
+C:\Users\Faizan\Desktop\VII\Compiler Construction\Lab\Lab 10\Activity1\bin\Debug\Activity1.exe
+C:\Users\Faizan\Desktop\VII\Compiler Construction\Lab\Lab 10\Activity1\bin\Debug\Activity1.pdb
+C:\Users\Faizan\Desktop\VII\Compiler Construction\Lab\Lab 10\Activity1\obj\Debug\Activity1.csprojAssemblyReference.cache
+C:\Users\Faizan\Desktop\VII\Compiler Construction\Lab\Lab 10\Activity1\obj\Debug\Activity1.csproj.CoreCompileInputs.cache
+C:\Users\Faizan\Desktop\VII\Compiler Construction\Lab\Lab 10\Activity1\obj\Debug\Activity1.exe
+C:\Users\Faizan\Desktop\VII\Compiler Construction\Lab\Lab 10\Activity1\obj\Debug\Activity1.pdb
